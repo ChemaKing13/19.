@@ -14,7 +14,11 @@ const initdb = async () =>
 
 // TODO: Add logic to a method that accepts some content and adds it to the database
 export const putDb = async (content) => {
-  console.error('putDb not implemented');
+  // console.error('putDb not implemented');
+  if (!content.id) {
+    content.id = generateUniqueId(); 
+  }
+  
   const jateDb = await openDB('jate', 1); 
   const tx = jateDb.transaction('jate', 'readwrite'); 
   const store = tx.objectStore('jate');
@@ -26,7 +30,7 @@ export const putDb = async (content) => {
 
 // TODO: Add logic for a method that gets all the content from the database
 export const getDb = async () => { 
-  console.error('getDb not implemented');
+  // console.error('getDb not implemented');
   //create a connection to the database and version we want to use
   const jateDb = await openDB('jate', 1); 
   //open up the desired object store
