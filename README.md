@@ -23,3 +23,7 @@ A progressive app combine the best of traditional websites and mobile apps. It i
 <p align = "center">
  <img width="600" height="300" alt="Screenshot 2023-07-26 at 12 31 40" src="https://github.com/ChemaKing13/19.ProgressiveWebApp/assets/124849302/9c0f9eff-e022-4d56-bffd-0f5b1c4009f7">
  </p>
+ <h2>Great Performance</h2>
+ <p align="center">
+   <img width="500" height="400" alt="Screenshot 2023-07-25 at 12 27 16" src="https://github.com/ChemaKing13/19.ProgressiveWebApp/assets/124849302/3dac5369-c805-4676-8a21-ba5a1445e984">
+ </p>
