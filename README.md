@@ -8,7 +8,7 @@
 - [Credits](#credits)
 - [Contact](#contact)
 - [License](#license)
-- [Demo](#demo)
+
 
 J.A.T.E is a simple texte editor that allows users to write, edit and save text online. However, this text editor is not just another website, but rather it has all the characteristics of a progressive web app. Let´s dive deeper into what makes this app a Progressive Web App: 
 
@@ -62,6 +62,17 @@ Its important to mention that the [starter code](https://github.com/coding-boot-
 - https://www.npmjs.com/package/webpack-pwa-manifest
 - https://webpack.js.org/plugins/mini-css-extract-plugin/#getting-started
 - https://webpack.js.org/guides/asset-management/#loading-images
+
+## Contact
+
+If you have any questions or feedback regarding this project, feel free to reach out to me:
+
+- Email: [jm2000ho@gmail.com](mailto:jm2000ho@gmail.com)
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](LICENSE) file for details.
+
   
 
 
