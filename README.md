@@ -1,11 +1,22 @@
 # My first PWA 🧩 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
+## Table of Contents
+
+
+- [Characteristics of a PWA](#characteristics-of-a-pwa)
+- [Usage](#usage)
+- [Credits](#credits)
+- [Contact](#contact)
+- [License](#license)
+- [Demo](#demo)
 
 J.A.T.E is a simple texte editor that allows users to write, edit and save text online. However, this text editor is not just another website, but rather it has all the characteristics of a progressive web app. Let´s dive deeper into what makes this app a Progressive Web App: 
 
 A progressive app combine the best of traditional websites and mobile apps. It is designed to work in any device with a browser, such as smarthphones, tablets and desktops. PWA's offer a better experience than traditional web sites. PWA' also benefit developers by reducing development and mantainance efforts. 
 
-<h1> Characteristics of a PWA </h1>
+## Characteristics of a PWA
+
+Some of the characteristics of a PWA that we can find in this app are: 
 
 <h2> App Design </h2>
 <p align = "center">
@@ -27,3 +38,21 @@ A progressive app combine the best of traditional websites and mobile apps. It i
  <p align="center">
    <img width="500" height="400" alt="Screenshot 2023-07-25 at 12 27 16" src="https://github.com/ChemaKing13/19.ProgressiveWebApp/assets/124849302/3dac5369-c805-4676-8a21-ba5a1445e984">
  </p>
+
+ ## Usage
+
+To use this Progressive Web App (PWA), follow these steps:
+
+1. **Access the Page**: Visit the following link [here](https://evening-plains-22047-c3aa1ce3f33d.herokuapp.com/) using your web browser.
+
+2. **Install the App**
+
+3. **Check Your Downloads**
+
+4. **Open the App**
+
+## Credits 
+
+
+
+
