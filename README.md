@@ -53,6 +53,15 @@ To use this Progressive Web App (PWA), follow these steps:
 
 ## Credits 
 
+Its important to mention that the [starter code](https://github.com/coding-boot-camp/cautious-meme) was really helpfull, cause it includes all the HTML, CSS and JS code, my duty was only to implement all the requirements to make it a PWA. But J.A.T.E as a text editor its someone else work. Another important resources I used: 
 
+- https://web.dev/learn/pwa/
+- https://developer.chrome.com/docs/workbox/#explanation_of_the_precache_list
+- https://developer.chrome.com/docs/workbox/the-ways-of-workbox/#using-a-bundler
+- https://developer.chrome.com/docs/workbox/the-ways-of-workbox/#using-a-bundler
+- https://www.npmjs.com/package/webpack-pwa-manifest
+- https://webpack.js.org/plugins/mini-css-extract-plugin/#getting-started
+- https://webpack.js.org/guides/asset-management/#loading-images
+  
 
 
