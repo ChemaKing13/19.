@@ -17,7 +17,6 @@ const pageCache = new CacheFirst({
       statuses: [0, 200],
     }),
     new ExpirationPlugin({
-      //maximum age of 30 days
       maxAgeSeconds: 30 * 24 * 60 * 60,
     }),
   ],
